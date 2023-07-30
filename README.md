@@ -1,5 +1,7 @@
-# Task1: Developed a servlet-based web application that calculates the factorials using Java logic, and JSP is used to render the table for easy reference.
+# Description
+Conatins the source code for JspServlet tasks of the
+JobHackerSystem 2023 internship - Java advanced track.
 ## [Task1:Factorial](ServletAndJsp/ServletAndJspTask1/src/main/webapp/index.jsp)
 ### A JSP that prints a factorial of 1:10 in a html table.
-# Task2: Implemented a user form to collect the date of birth and the current date. The servlet computes the age in years, months, and days based on the provided information.
-# Tools: Servlets, JSP, Html, Web Server (Tomcat).
+## [Task2:Factorial](ServletAndJsp/ServletAndJspTask1/src/main/webapp/index.jsp)
+### Implemented a user form to collect the date of birth and the current date. The servlet computes the age in years, months, and days based on the provided information.
